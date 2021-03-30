@@ -35,6 +35,8 @@ newPRWelcomeComment: >
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
+CONFIGS PLACEHOLDER
+Welcome to our repository! Thanks for adding an issue, if you are reporting a bug or a feature request, please make sure to assign a label to this issue
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
   Congrats on merging your first pull request! We here at behaviorbot are proud of you!
